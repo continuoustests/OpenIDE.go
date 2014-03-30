@@ -1,0 +1,17 @@
+obj
+bin
+deploy
+deploy/*
+test-results/
+*~
+*.swp
+*.swo
+*.bin
+*.userprefs
+*.pyc
+ReleaseBinaries
+~$*
+*.sublime-project
+*.sublime-workspace
+.OpenIDE/active.profile
+oi-definitions.json
