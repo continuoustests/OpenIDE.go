@@ -2,7 +2,7 @@
 
 if [ "$1" = "reactive-script-reacts-to" ]; then
 	# Write one event pr line that this script will react to
-	echo "codemodel filesystem-change*.go*"
+	echo "'codemodel' 'filesystem-change*.go*"
 	exit
 fi
 
