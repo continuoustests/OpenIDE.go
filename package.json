@@ -4,7 +4,7 @@
 	"os": ["linux"],
 	"target": "language",
 	"id": "go",
-	"version": "v1.0",
+	"version": "v1.1",
 	"command": "go",
 	"name": "Go language plugin",
 	"description": "Go language plugin",
